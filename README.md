@@ -7,7 +7,7 @@ The source code for our work published in MDM2019, namely k-Collective Influenti
 
 2.  IDE is VS 2013.
 
-##Dataset
+## Dataset
 
 1.  There are two datasets which are recorded by two text files(`checkins-10162.txt` and `checkins-2321.txt`).
 
@@ -20,13 +20,13 @@ The source code for our work published in MDM2019, namely k-Collective Influenti
 ).
 
 
-##Algorithm
+## Algorithm
 
 1. `PINOCCHIO`: We evaluate the inf(·) for all candidates, and select the top k candidates with the maximum inf(·) as the results.
 2. `GreedyP`: The GreedyP algorithm in Algorithm 1 in paper.
 3. `GreedyPS`: The GreedyPS algorithm in Algorithm 2 in paper.
 
-##Supplement
+## Supplement
 
 1.  `PLS.cpp `: Main function. 
 
